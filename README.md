@@ -158,7 +158,7 @@ The demonstration should show:
 
 
 ## zine page
-<img width="1054" height="1492" alt="ChatGPT Image Jun 11, 2026, 08_43_50 PM" src="https://github.com/user-attachments/assets/84740f45-37ea-41e2-8033-bf75c20338d1" />
+<img width="1024" height="1536" alt="20260611_232649_0000" src="https://github.com/user-attachments/assets/cc7b3168-6d21-4a70-b6b7-13fdce84a699" />
 
 ---
 
