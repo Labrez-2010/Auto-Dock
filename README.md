@@ -157,6 +157,8 @@ The demonstration should show:
  [Base part.pdf](https://github.com/user-attachments/files/28844077/Base.part.pdf)
 
 
+## zine page
+<img width="1054" height="1492" alt="ChatGPT Image Jun 11, 2026, 08_43_50 PM" src="https://github.com/user-attachments/assets/84740f45-37ea-41e2-8033-bf75c20338d1" />
 
 ---
 
