@@ -140,8 +140,6 @@ Board might be differ as using wokwi
 
 # Demo Video
 
-Add your project demonstration video here:
-
 https://youtu.be/8TeNCQADesA
 
 The demonstration should show:
@@ -150,6 +148,15 @@ The demonstration should show:
 2. Triggering a workspace
 3. Applications launching automatically
 4. The workspace becoming ready
+
+## CAD diagram 
+
+- front part
+[front part.pdf](https://github.com/user-attachments/files/28844033/front.part.pdf)
+- Base part
+ [Base part.pdf](https://github.com/user-attachments/files/28844077/Base.part.pdf)
+
+
 
 ---
 
